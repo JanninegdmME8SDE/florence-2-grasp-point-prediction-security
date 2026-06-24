@@ -1,3 +1,4 @@
+# --- Python Built-in .gitignore Template ---
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Custom Project Overrides ---
+
+# Security: Prevent accidental exposure of credentials
+secret_keys.json
+
+# Temporary Files: Exclude build/output artifacts
+outputs/json/temp_*.json
+
+# --- Custom Project-Specific Exclusions ---
+
+# Internal Documentation
+documents/
+
+# Binary artifacts, model weights, and large serialized data
+*.npy
+*.pth
+*.pt
+*.h5
+*.pkl
+*.zip
+*.tar
+*.gz
