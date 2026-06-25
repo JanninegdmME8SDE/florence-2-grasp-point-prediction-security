@@ -244,5 +244,4 @@ documents/
 # --- Local Operational Notebooks (Do Not Push) ---
 notebooks/git_commit.ipynb
 
-# --- Local Operational Notebooks (Do Not Push) ---
 notebooks/setup_and_utils.ipynb
