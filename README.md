@@ -16,17 +16,18 @@ Recognizing the critical need for [epistemic humility](https://arxiv.org/abs/250
 
 ```text
 florence-2-grasp-point-prediction-security/
-├── .git/                               # Git version control directory
-├── .gitignore                          # Git exclusion rules
-├── data/                               # Raw datasets and threat matrix metadata
+├── .git/                                 # Git version control directory
+├── .gitignore                            # Git exclusion rules
+├── data/                                 # Raw datasets and threat matrix metadata
 │   └── raw/
-│       ├── images/                     
+│       ├── images/             
 │       └── metadata_eval.json
-├── LICENSE                             # MIT License
-├── notebooks/                          # Evaluation and pipeline notebooks
+├── docs/                                 # Study materials, lab notes, etc. (Local-only)
+├── LICENSE                               # MIT License
+├── notebooks/                            # Evaluation and pipeline notebooks
 │   ├── 00_curate_threat_matrix.ipynb
-│   ├── git_commit.ipynb
-│   └── setup_and_utils.ipynb
-├── outputs/                            # Metrics, results, and visualizations
-└── README.md                           # Project documentation
+│   ├── git_commit.ipynb                  # Operational (Local-only)
+│   └── setup_and_utils.ipynb             # Operational (Local-only)
+├── outputs/                              # Metrics, results, and visualizations
+└── README.md                             # Project documentation
 ```
