@@ -229,7 +229,7 @@ outputs/json/temp_*.json
 # --- Custom Project-Specific Exclusions ---
 
 # Internal Documentation
-documents/
+docs/
 
 # Binary artifacts, model weights, and large serialized data
 *.npy
