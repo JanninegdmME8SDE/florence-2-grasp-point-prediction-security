@@ -31,3 +31,14 @@ florence-2-grasp-point-prediction-security/
 ├── outputs/                              # Metrics, results, and visualizations
 └── README.md                             # Project documentation
 ```
+
+## 🤝 Acknowledgements
+
+I am grateful to my brilliant professors, teaching assistants, and cohorts, both former and new, for the learning and collaborative experiences during my studies.
+
+I would like to acknowledge the software development and AI/ML skills I have gained through the course materials provided by the University of Washington. These skills served as the primary theoretical and applied basis for the development of this independent project repository, specifically from the following graduate certificate programs:
+
+* [Graduate Certificate in Software Development Engineering](https://www.tacoma.uw.edu/set/programs/certificates/gcsde) (Cohorts 2024-2025)
+
+* [Graduate Certificate in Artificial Intelligence and Machine Learning for Engineering](https://www.engr.washington.edu/admission/professional-masters-certificates/artificial-intelligence-and-machine-learning-certificate) (Cohorts 2025-2026)
+* 
