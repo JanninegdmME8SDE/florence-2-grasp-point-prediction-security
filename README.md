@@ -16,20 +16,22 @@ Recognizing the critical need for [epistemic humility](https://arxiv.org/abs/250
 
 ```text
 florence-2-grasp-point-prediction-security/
-├── .git/                                 # Git version control directory
-├── .gitignore                            # Git exclusion rules
-├── data/                                 # Raw datasets and threat matrix metadata
+├── .git/                                           # Git version control directory
+├── .gitignore                                      # Git exclusion rules
+├── data/                                           # Raw datasets and threat matrix metadata
 │   └── raw/
-│       ├── images/             
+│       ├── images/              
 │       └── metadata_eval.json
-├── docs/                                 # Study materials, lab notes, etc. (Local-only)
-├── LICENSE                               # MIT License
-├── notebooks/                            # Evaluation and pipeline notebooks
-│   ├── 00_curate_threat_matrix.ipynb
-│   ├── git_commit.ipynb                  # Operational (Local-only)
-│   └── setup_and_utils.ipynb             # Operational (Local-only)
-├── outputs/                              # Metrics, results, and visualizations
-└── README.md                             # Project documentation
+├── docs/                                           # Study materials, lab notes, etc. (Local-only)
+├── LICENSE                                         # MIT License
+├── notebooks/                                      # Evaluation and pipeline notebooks
+│   ├── 00_curate_threat_matrix.ipynb               # Threat matrix curation
+│   ├── 01_florence2_evaluate_threat_matrix.ipynb   # Zero-shot inference
+│   ├── git_commit.ipynb                            # Operational (Local-only)
+│   └── setup_and_utils.ipynb                       # Operational (Local-only)
+├── outputs/                                        # Metrics, results, and visualizations
+│   └── threat_eval_results.json                    # Inference coordinates and bounding boxes
+└── README.md                                       # Project documentation
 ```
 
 ## 🤝 Acknowledgements
@@ -41,4 +43,3 @@ I would like to acknowledge the software development and AI/ML skills I have gai
 * [Graduate Certificate in Software Development Engineering](https://www.tacoma.uw.edu/set/programs/certificates/gcsde) (Cohorts 2024-2025)
 
 * [Graduate Certificate in Artificial Intelligence and Machine Learning for Engineering](https://www.engr.washington.edu/admission/professional-masters-certificates/artificial-intelligence-and-machine-learning-certificate) (Cohorts 2025-2026)
-* 
