@@ -43,3 +43,40 @@ I would like to acknowledge the software development and AI/ML skills I have gai
 * [Graduate Certificate in Software Development Engineering](https://www.tacoma.uw.edu/set/programs/certificates/gcsde) (Cohorts 2024-2025)
 
 * [Graduate Certificate in Artificial Intelligence and Machine Learning for Engineering](https://www.engr.washington.edu/admission/professional-masters-certificates/artificial-intelligence-and-machine-learning-certificate) (Cohorts 2025-2026)
+
+## 📚 Bibliography
+
+[1] M. Hickner, *ENGR 521 A SP 26 Machine Learning for Engineering Project*. UW Canvas: Course Materials, 2026.
+
+[2] M. Hickner, *ENGR 510 A AU 25 Foundations Of Machine Learning For Engineering*. UW Canvas: Course Materials, 2025.
+
+[3] S. Fresca, *ENGR 515 A Wi 26 Data-Driven Optimization*. UW Canvas: Course Materials, 2026.
+
+[4] S. Fresca, *ENGR 520 A Sp 26 Physics-Informed Machine Learning*. UW Canvas: Course Materials, 2026.
+
+[5] S. L. Brunton and J. N. Kutz, *Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control*. Cambridge University Press, 2021.
+
+[6] S. L. Brunton, "Optimization: A Bootcamp for Machine Learning, Inverse Problems, and Control." Course Manuscript, University of Washington, 2025.
+
+[7] P. Rajmohan, P. Alam, and J. G. D. MacGormain, "A Comparative Study of CLIP, Grounding DINO, and Florence-2 for Language-Guided Grasp-Relevant Point Prediction," ENGR 521 A SP 26 Machine Learning for Engineering Project, University of Washington, 2026. [Online]. Available: [comparative study repository](https://github.com/priyagautham28/grasp-point-prediction)
+
+[8] AllenAI, "pixmo-points," Hugging Face, 2024. [Online]. Available: [https://huggingface.co/datasets/allenai/pixmo-points](https://huggingface.co/datasets/allenai/pixmo-points)
+
+[9] B. K. Rameshbabu, S. S. Balakrishna, B. Flynn, V. Kapoor, A. Norton, H. Yanco, and B. Calli, "A Benchmarking Study of Vision-based Robotic Grasping Algorithms," *arXiv preprint arXiv:2503.11163*, 2025. [Online]. Available: [https://arxiv.org/abs/2503.11163](https://arxiv.org/abs/2503.11163)
+
+[10] B. Xiao et al., "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks," *arXiv preprint arXiv:2311.06242*, 2023. [Online]. Available: [https://arxiv.org/abs/2311.06242](https://arxiv.org/abs/2311.06242)
+
+[11] Ultralytics, "How to Run Microsoft Florence-2 with Ultralytics for Visual Reasoning, OCR & Object Detection Tasks," 2025. [Online]. Available: [YouTube Video](https://www.youtube.com/watch?v=ojoYESWLw5Q) | [Colab Notebook](https://colab.research.google.com/github/ultralytics/notebooks/blob/main/notebooks/how-to-use-florence-2-for-object-detection-image-captioning-ocr-and-segmentation.ipynb) | [GitHub Repo](https://github.com/ultralytics/notebooks/blob/main/notebooks/how-to-use-florence-2-for-object-detection-image-captioning-ocr-and-segmentation.ipynb)
+
+[12] A. Deshpande et al., "GraspMoLMo: Language-Guided Grasp Point Selection with Vision-Language Models," *arXiv preprint arXiv:2505.13441*, 2025. [Online]. Available: [https://arxiv.org/abs/2505.13441](https://arxiv.org/abs/2505.13441)
+
+[13] G. Tziafas and H. Kasaei, "Towards Open-World Grasping with Large Vision-Language Models," *arXiv preprint arXiv:2406.18722*, 2024. [Online]. Available: [https://arxiv.org/abs/2406.18722](https://arxiv.org/abs/2406.18722)
+
+[14] E. Griffor, C. Greer, D. Wollman, and M. Burns, "Framework for Cyber-Physical Systems: Volume 1, Overview," National Institute of Standards and Technology, Gaithersburg, MD, Special Publication (NIST SP) 1500-201, 2017. [Online]. Available: [https://www.nist.gov/publications/framework-cyber-physical-systems-volume-1-overview](https://www.nist.gov/publications/framework-cyber-physical-systems-volume-1-overview)
+
+[15] T. Wang et al., "Exploring the Adversarial Vulnerabilities of Vision-Language-Action Models in Robotics," *arXiv preprint arXiv:2411.13587*, 2025. [Online]. Available: [https://arxiv.org/abs/2411.13587](https://arxiv.org/abs/2411.13587)
+
+[16] T. Wang et al., "Adversarial Robustness in Embodied AI: A Closed-Loop Perspective on Attacks and Defenses," *TechRxiv*, 2026. [Online]. Available: [https://www.techrxiv.org/doi/full/10.36227/techrxiv.177100288.88303656/v1](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177100288.88303656/v1)
+
+[17] B. Tong et al., "Measuring Epistemic Humility in Multimodal Large Language Models," *arXiv preprint arXiv:2509.09658*, 2026. [Online]. Available: [https://arxiv.org/abs/2509.09658](https://arxiv.org/abs/2509.09658)
+
